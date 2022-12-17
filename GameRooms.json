@@ -18,12 +18,12 @@
     "c1": 22,
     "c2": 3,
     "c3": 16,
-    "story": "Welcome to 1910… \\n",
+    "story": "Welcome to 1910… Go test your answer in the secret center…",
     "nav": "press 1 to take the time machine,  press 2 to go to 1920, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
     "stranger": 1,
-    "bird": 1
+    "bird": 0
   },
   {
     "id": 3,
@@ -31,7 +31,7 @@
     "c1": 22,
     "c2": 4,
     "c3": 16,
-    "story": "You are in taco bell and get very sick, you lose",
+    "story": "Welcome to 1920… Go test your answer in the secret center…",
     "nav": "press 1 to take the time machine,  press 2 to go to 1930, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
@@ -44,12 +44,12 @@
     "c1": 22,
     "c2": 5,
     "c3": 16,
-    "story": "You are at Tims in space enjoying a double double",
+    "story": "Welcome to 1930… Go test your answer in the secret center…",
     "nav": "press 1 to take the time machine,  press 2 to go to 1940, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
     "stranger": 0,
-    "bird": 0
+    "bird": 1
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "c1": 22,
     "c2": 6,
     "c3": 16,
-    "story": "",
+    "story": "Welcome to 1940… Go test your answer in the secret center…",
     "nav": "press 1 to take the time machine,  press 2 to go to 1950, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
@@ -70,7 +70,7 @@
     "c1": 22,
     "c2": 7,
     "c3": 16,
-    "story": "You are on pluto!",
+    "story": "Welcome to 1950… Go test your answer in the secret center…",
     "nav": "press 1 to take the time machine,  press 2 to go to 1960, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
@@ -83,11 +83,11 @@
     "c1": 22,
     "c2": 8,
     "c3": 16,
-    "story": "You found the end, you win! SATURN YEAH!",
+    "story": "Welcome to 1960… Go test your answer in the secret center…",
     "nav": "press 1 to take the time machine,  press 2 to go to 1970, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": 0,
+    "stranger": 1,
     "bird": 0
   },
   {
@@ -96,12 +96,12 @@
     "c1": 22,
     "c2": 9,
     "c3": 16,
-    "story": "",
+    "story": "Welcome to 1970… Go test your answer in the secret center…",
     "nav": "press 1 to take the time machine,  press 2 to go to 1980, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 1
   },
   {
     "id": 9,
@@ -109,12 +109,12 @@
     "c1": 22,
     "c2": 10,
     "c3": 16,
-    "story": "",
+    "story": "Welcome to 1980… Go test your answer in the secret center…",
     "nav": "press 1 to take the time machine,  press 2 to go to 1990, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   },
   {
     "id": 10,
@@ -122,12 +122,12 @@
     "c1": 22,
     "c2": 11,
     "c3": 16,
-    "story": "",
+    "story": "Welcome to 1990… Go test your answer in the secret center…",
     "nav": "press 1 to take the time machine,  press 2 to go to 2000, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   },
   {
     "id": 11,
@@ -135,51 +135,51 @@
     "c1": 22,
     "c2": 18,
     "c3": 16,
-    "story": "",
-    "nav": "press 1 to take the time machine, press 2 to pet a cute cat, and 3 for tim hortons",
+    "story": "Welcome to 2000… Go test your answer in the secret center…",
+    "nav": "press 1 to take the time machine, press 2 to pet a cute cat, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 1,
+    "bird": 0
   },
   {
     "id": 12,
     "name": "desert",
     "c1": 22,
-    "c2": "",
+    "c2": 12,
     "c3": 16,
-    "story": "",
-    "nav": "press 1 to take the time machine,  press 2 to go to 2000, and press 3 to go to the secret center",
+    "story": "The restaurant's owner is the thief… You fainted after eating bread, and she sent you to the desert…",
+    "nav": "press 1 to take the time machine,  press 2 to go to the beach, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 1
   },
   {
     "id": 13,
     "name": "beach",
     "c1": 22,
-    "c2": "",
-    "c3": 16,
-    "story": "",
-    "nav": "press 1 to take the time machine,  press 2 to go to 2000, and press 3 to go to the secret center",
+    "c2": 16,
+    "c3": 24,
+    "story": "You are so tired and you want to go home…",
+    "nav": "press 1 to take the time machine,  press 2 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   },
   {
     "id": 14,
     "name": "park",
     "c1": 22,
-    "c2": "",
+    "c2": 19,
     "c3": 16,
-    "story": "",
-    "nav": "press 1 to take the time machine,  press 2 to go to 2000, and press 3 to go to the secret center",
+    "story": "You were so excited to find the thief… However, there is a wolf, and the note was the thief's trick…",
+    "nav": "press 1 to take the time machine,  press 2 to go to the restuarant, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   },
   {
     "id": 15,
@@ -187,12 +187,12 @@
     "c1": 22,
     "c2": 16,
     "c3": 24,
-    "story": "Alison: I am a superhero, and my superpower is to summon anyone… \\nJust tell me a name…",
+    "story": "Alison: I am a superhero, and my superpower is to summon anyone… Just tell me a name…",
     "nav": "press 1 to take the time machine, press 2 to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 1,
+    "bird": 0
   },
   {
     "id": 16,
@@ -204,8 +204,8 @@
     "nav": "press 1 to take the time machine",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   },
   {
     "id": 17,
@@ -213,12 +213,12 @@
     "c1": 22,
     "c2": 21,
     "c3": 16,
-    "story": "As soon as you fly out of prison, you get lost… \\nYou land in front of a castle… \\nSuddenly, a vampire rushes out of the castle trying to eat you. \\nYou fought to escape, but unfortunately you were bitten in the arm…",
+    "story": "As soon as you fly out of prison, you get lost… You land in front of a castle… Suddenly, a vampire rushes out of the castle trying to eat you. You fought to escape, but unfortunately you were bitten in the arm…",
     "nav": "press 1 to take the time machine, press 2 to go to the hospital, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   },
   {
     "id": 18,
@@ -226,38 +226,38 @@
     "c1": 22,
     "c2": 17,
     "c3": 16,
-    "story": "Oh no, it was a trap… You are in jail now… \\nIf you pay $20, a wizard can turn you into a bird…",
+    "story": "Oh no, it was a trap… You are in jail now… If you pay $20, a wizard can turn you into a bird…",
     "nav": "press 1 to take the time machine, press 2 to pay $20, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 1
   },
   {
     "id": 19,
     "name": "resturant",
     "c1": 22,
-    "c2": "",
+    "c2": 12,
     "c3": 16,
-    "story": "",
-    "nav": "press 1 to take the time machine,  press 2 to go to 2000, and press 3 to go to the secret center",
+    "story": "Are you hungry? The restaurant only has bread. Pay $10 to get one…",
+    "nav": "press 1 to take the time machine,  press 2 to go to desert, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   },
   {
     "id": 20,
     "name": "store",
     "c1": 22,
-    "c2": "",
+    "c2": 13,
     "c3": 16,
-    "story": "",
-    "nav": "press 1 to take the time machine,  press 2 to go to 2000, and press 3 to go to the secret center",
+    "story": "You bought a suit. You picked up a note from the street, and it says 'go to the park'…",
+    "nav": "press 1 to take the time machine,  press 2 to go to the park, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 1,
+    "bird": 0
   },
   {
     "id": 21,
@@ -265,25 +265,25 @@
     "c1": 22,
     "c2": 20,
     "c3": 16,
-    "story": "Fortunately, you flew fast, and the doctor gave you serum… \\nYou will not become a vampire.",
-    "nav": "press 1 to take the time machine,  press 2 to go to the restuarant, and press 3 to go to the secret center",
+    "story": "Fortunately, you flew fast, and the doctor gave you serum… You will not become a vampire. But you need some clothes because you are back to yourself…",
+    "nav": "press 1 to take the time machine,  press 2 to go to the store, and press 3 to go to the secret center",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   },
   {
     "id": 22,
     "name": "time machine",
     "c1": 2,
-    "c2": 6,
-    "c3": 11,
-    "story": "The thief took the trophy and ran into the time machine… \\nThe time machine happened to be set between 1910 and 2000. \\nIf you want to find her, search from 1910 to 2000…",
-    "nav": "press 1 to 1910, press 2 to go to 1940, and press 3 to go to 1990.",
+    "c2": 7,
+    "c3": 1,
+    "story": "The thief took the trophy and ran into the time machine… The time machine happened to be set between 1910 and 2000. If you want to find her, search from 1910 to 2000…",
+    "nav": "press 1 to 1910, press 2 to go to 1950, and press 3 to go to Cambrian College.",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   },
   {
     "id": 23,
@@ -291,12 +291,12 @@
     "c1": 22,
     "c2": "",
     "c3": "",
-    "story": "To find the thief, you need to collect clues by playing games year by year… \\nYou will know what to do after you have enough information...",
+    "story": "To find the thief, you need to collect clues by playing games year by year… You will know what to do after you have enough information...",
     "nav": "press 1 to take the time machine",
     "win": 0,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   },
   {
     "id": 24,
@@ -305,11 +305,11 @@
     "c2": "",
     "c3": "",
     "story": "You win!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-    "nav": "Take the password 'ANA1001Alison', and go to the password site of this link. You will be surprised :) \\nhttps://FindTheTrophy.alison0412.repl.co",
+    "nav": "Take the password 'ANA1001Alison', and go to the password site of this link. You will be surprised :) https://FindTheTrophy.alison0412.repl.co",
     "win": 1,
     "lose": 0,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   },
   {
     "id": 25,
@@ -318,10 +318,10 @@
     "c2": "",
     "c3": "",
     "story": "It is ok…",
-    "nav": "Take the password 'ANA1001Alison', and go to the password site of this link. You will be surprised :) \\nhttps://FindTheTrophy.alison0412.repl.co",
+    "nav": "Take the password 'ANA1001Alison', and go to the password site of this link. You will be surprised :) https://FindTheTrophy.alison0412.repl.co",
     "win": 0,
     "lose": 1,
-    "stranger": "",
-    "bird": ""
+    "stranger": 0,
+    "bird": 0
   }
 ]
